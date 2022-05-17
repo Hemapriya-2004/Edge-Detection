@@ -109,17 +109,24 @@ plt.show()
 ## Output:
 ### SOBEL EDGE DETECTOR
 SOBEL X:
+
 ![output](https://github.com/Hemapriya-2004/Edge-Detection/blob/main/s1.png?raw=true)
+
 SOBEL Y:
+
 ![output](https://github.com/Hemapriya-2004/Edge-Detection/blob/main/s2.png?raw=true)
+
 SOBEL XY:
+
 ![output](https://github.com/Hemapriya-2004/Edge-Detection/blob/main/s3.png?raw=true)
 
 ### LAPLACIAN EDGE DETECTOR
+
 ![output](https://github.com/Hemapriya-2004/Edge-Detection/blob/main/s4.png?raw=true)
 
 
 ### CANNY EDGE DETECTOR
+
 ![output](https://github.com/Hemapriya-2004/Edge-Detection/blob/main/s5.png?raw=true)
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
